@@ -1,4 +1,11 @@
-# 66 Days of Data   
+# 66 Days of Data
+
+## What happened?
+
+It looks like I got super busy at work and let this slide. Not to say that I haven't been coding, I have, I just haven't been recording it. I am going to give this another go.
+
+
+### Back then
 
 Five minutes a day for 66 days. Spending a few minutes every day learning something new about data.  This is supposed to develop a new habit. We will see. Seems I slipped into 10 minutes a day, oops.
 
